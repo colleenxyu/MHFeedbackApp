@@ -1,5 +1,4 @@
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 from supabase_client import supabase
 from docxtpl import DocxTemplate, InlineImage
